@@ -5,5 +5,8 @@ pyattck assignment
 Search on windows platform (via techniques): malware
 Returns list of malware names
 
-# Usage: search_malware --platform windows
+# Usage: malwareByPlatform <platform> --stats
+
+--stats is the number of malware potentially attacking each platform
+
 
